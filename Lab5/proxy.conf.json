@@ -1,0 +1,10 @@
+{
+  "/randomuserme": {
+    "target": "",
+    "secure": true,
+    "pathRewrite": {
+      "^/randomuserme": ""
+    },
+    "changeOrigin": true
+  }
+}
